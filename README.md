@@ -62,8 +62,8 @@ The interface is in the image below:
 - Execute:
 
 ```shell
-cd gui
 sudo apt-get install python3-tk
 sudo apt-get install python3-requests
+cd GUI
 python3 gui.py
 ```

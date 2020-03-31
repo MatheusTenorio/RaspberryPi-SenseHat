@@ -23,7 +23,7 @@ You must configure your device before starting, run the commands:
 sudo apt-get install sense-hat
 pip3 install paho-mqtt
 pip3 install requests
-git clone https://github.com/MatheusTenorio/private-sensehat.git
+git clone https://github.com/MatheusTenorio/RaspberryPi-SenseHat.git
 cd private-sensehat
 ```
 To execute the code it's necessary to pass some parameters: `Dojot Host`, `Raspberry IP` and `Port`
